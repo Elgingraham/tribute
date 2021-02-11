@@ -1,4 +1,3 @@
-
 #pic {
   border: 5px solid blue;
   display: block;
@@ -6,7 +5,15 @@
   margin-right: auto;
 }
 
-
-.names{
+.names {
   text-align: center;
+}
+
+#help {
+  background-color: lightgray;
+}
+
+#me{
+ font-size: 45px; 
+  color: purple
 }
